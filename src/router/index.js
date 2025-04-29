@@ -1,6 +1,6 @@
-// src/router/index.js
+
 import { createRouter, createWebHistory } from 'vue-router'
-import Home from '../components/HelloWorld.vue' // ✅ تعريف Home
+import Home from '../components/HelloWorld.vue' 
 import About from '../about/page.vue'
 import Contact from "../contact/page.vue"
 
